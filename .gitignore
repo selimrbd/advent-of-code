@@ -2,8 +2,6 @@ ignore/
 *.html
 *.json
 *.code-workspace
-*.png
-img/
 
 sandbox.ipynb
 # Byte-compiled / optimized / DLL files
