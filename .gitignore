@@ -1,5 +1,9 @@
 ignore/
+*.html
+*.json
+*.code-workspace
 
+sandbox.ipynb
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
